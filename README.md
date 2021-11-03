@@ -3,16 +3,16 @@
 - 1 Dòng lệnh cập nhật ubuntu , tạo X-UI mở các port liên quan , cài Speestest VPS , Chú ý dòng fix lổi nếu lệnh x-ui không hiện lên
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/caidatvps.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/dangvandangdvd/TuTaoX-UI/master/caidatvps.sh)
 ```
 
 - 2 Dòng lệnh cập nhật ubuntu và cài X-UI mở các port liên quan thôi nhanh gọn
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/duybalai.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/dangvandangdvd/TuTaoX-UI/master/duybalai.sh)
 ```
 - 3 Bảng Menu Tool Cài Đặt Tự Động thao tác tuỳ chọn trên VPS (Lưu Ý Ubuntu 18 Trở Lên Mới Hoạt Động)
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/menutrancuong.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/dangvandangdvd/TuTaoX-UI/master/menutrancuong.sh)
 ```
 
 **Hãy làm theo chú ý khi cài xong X-UI nhé không thôi bạn sẽ mất VPS . Cài xong sẽ thấy lời nhắn .**
