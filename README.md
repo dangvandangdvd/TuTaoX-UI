@@ -21,11 +21,11 @@ bash <(curl -Ls https://raw.githubusercontent.com/dangvandangdvd/TuTaoX-UI/maste
 
 **Link Nhóm :** 
 ``` 
-https://zalo.me/g/nlsmbo197 
+https://zalo.me/
 ```
 **Bản Cập Nhật 2021**
 
-**Trần Cường Việt Hoá**
+**DVD Hoá**
 
 ```Nguồn vaxilu```
 
