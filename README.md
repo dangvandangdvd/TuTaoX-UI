@@ -12,7 +12,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/dangvandangdvd/TuTaoX-UI/maste
 ```
 - 3 Bảng Menu Tool Cài Đặt Tự Động thao tác tuỳ chọn trên VPS (Lưu Ý Ubuntu 18 Trở Lên Mới Hoạt Động)
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/dangvandangdvd/TuTaoX-UI/master/menutrancuong.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/dangvandangdvd/TuTaoX-UI/master/menudvd.sh)
 ```
 
 **Hãy làm theo chú ý khi cài xong X-UI nhé không thôi bạn sẽ mất VPS . Cài xong sẽ thấy lời nhắn .**
